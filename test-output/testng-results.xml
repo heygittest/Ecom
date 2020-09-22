@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39846" started-at="2020-03-31T06:49:25Z" finished-at="2020-03-31T06:50:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39846" started-at="2020-03-31T06:49:25Z" finished-at="2020-03-31T06:50:05Z">
+      <class name="com.practice.TestCase.TestCase4">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.practice.TestCase.TestCase4@6d4b1c02]" name="init" is-config="true" duration-ms="19910" started-at="2020-03-31T17:49:25Z" finished-at="2020-03-31T17:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="newarraival_itemclick()[pri:0, instance:com.practice.TestCase.TestCase4@6d4b1c02]" name="newarraival_itemclick" duration-ms="18974" started-at="2020-03-31T17:49:45Z" finished-at="2020-03-31T17:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newarraival_itemclick -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.practice.TestCase.TestCase4@6d4b1c02]" name="teardown" is-config="true" duration-ms="930" started-at="2020-03-31T17:50:04Z" finished-at="2020-03-31T17:50:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.practice.TestCase.TestCase4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
